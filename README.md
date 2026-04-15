@@ -1,1 +1,1 @@
-# config
+# LunaPress Core
